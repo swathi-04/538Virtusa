@@ -1,0 +1,29 @@
+body{
+    font-family: 'Cambria';
+}
+*{
+    margin: 0;
+    padding:0;
+}
+header,footer{
+    position:absolute;
+    background-color:darkcyan;
+    width:100%;
+}
+header h1{
+    position: absolute;
+    margin-top: 20px;
+    left: 32%;
+}
+header{
+    height: 15vh;
+}
+footer{
+    height: 15vh;
+    bottom: 0;
+}
+img{
+    width: 150px;
+    margin-top: 200px;
+    margin-left: 100px;
+}
